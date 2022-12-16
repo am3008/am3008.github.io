@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.021516e7.css",
+    "main.js": "/static/js/main.9eea510e.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/WEb.png": "/static/media/WEb.9f4ce2af88ecbd8c3c9c.png",
+    "static/media/ConwayIMG.gif": "/static/media/ConwayIMG.2f05feb0277a68b746b9.gif",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/NbodyIMG.jpg": "/static/media/NbodyIMG.cc191c6e07f41366dd0b.jpg",
+    "static/media/portfolio-bg.jpg": "/static/media/portfolio-bg.203c45bab1d0aa349148.jpg",
+    "static/media/PongIMG.jpg": "/static/media/PongIMG.bd8b64d3651189567e6f.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/icon5.svg": "/static/media/icon5.04be58c17b3d5e9744424d414240dd85.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "main.021516e7.css.map": "/static/css/main.021516e7.css.map",
+    "main.9eea510e.js.map": "/static/js/main.9eea510e.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021516e7.css",
+    "static/js/main.9eea510e.js"
+  ]
+}
